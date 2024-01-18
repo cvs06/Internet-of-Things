@@ -1,3 +1,6 @@
+Nama : Muhammad Rizky Ramadhian Putra
+NIM  : 09021382126149
+
 Definisi IoT 
 IoT (Internet of Things) adalah sebuah konsep yang terhubung dengan perangkat yang berbasis internet. Dengan adanya IoT, seorang user dapat saling terhubung dan berkomunikasi untuk melakukan aktivitas tertentu, mencari, mengolah, dan mengirimkan, informasi secara otomatis.
 
